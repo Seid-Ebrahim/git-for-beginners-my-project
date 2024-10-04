@@ -1,4 +1,4 @@
 Welcome to MyProject
 
-Author: Seid
+Author: Seid Mohammed
 Twitter:@seidibrahim
