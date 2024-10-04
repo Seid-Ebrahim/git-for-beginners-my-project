@@ -1,4 +1,5 @@
 Welcome to MyProject
 
-Author: Seid Ebrahim
+Author: Seid Mohammed Ebrahim
 Twitter:@seidibrahim
+
